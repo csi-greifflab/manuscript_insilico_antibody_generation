@@ -1,4 +1,5 @@
-### This repo contains  dataset files, codes, and figures for the manuscript 'Proof of principle of machine learning-based antibody design at unconstrained scale'!
+### This repo contains  dataset files, codes, and figures for the manuscript 'Proof of principle of
+machine learning-based antibody design at unconstrained scale'.
 ***
 
 Read the manuscript [here](https://www.biorxiv.org/content/10.1101/759498v4)
