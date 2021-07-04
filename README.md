@@ -10,3 +10,5 @@ Read the manuscript [here](linktobiorxiv)
 * ```figures``` contains main and supplementary figures
 * ```dl``` contains codes for the deep learning models
 
+<img src="https://github.com/csi-greifflab/manuscript_insilico_antibody_generation/blob/master/figures/figureGA7x.png" width="200" />
+
