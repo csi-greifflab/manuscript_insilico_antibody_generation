@@ -11,5 +11,5 @@ Read the manuscript [here](linktobiorxiv)
 * ```dl``` contains codes for the deep learning models
 
 <img
-src="https://github.com/csi-greifflab/manuscript_insilico_antibody_generation/blob/master/figures/figureGA7x.png"width="1000" />
+src="https://github.com/csi-greifflab/manuscript_insilico_antibody_generation/blob/master/figures/figureGA7x.png" width="1000" />
 
